@@ -6,9 +6,9 @@ Olá, eu me chamo Adrian, e nessa extensa explicação iremos aprender a criar u
 |PARTE 2-CONECTANDO ELE COM A GAMEMODE|
 |PARTE 3-DEIXANDO ELE ONLINE|
 
-##INFO:Caso você queira ver esse tutorial em formato de video aula,acesse este link:(EM BREVE)##
+////INFO:Caso você queira ver esse tutorial em formato de video aula,acesse este link:(EM BREVE)////
 
-##PARTE 1-CRIANDO O BOT##
+PARTE 1-CRIANDO O BOT
 
 -Primeiramente acesse o site: https://discord.com/login?redirect_to=%2Fdevelopers
 
@@ -24,4 +24,4 @@ Olá, eu me chamo Adrian, e nessa extensa explicação iremos aprender a criar u
 
 -Após seguir todos os passos acima,s seu bot não estará online AINDA,mas já estara funcionando no seu discord.
 
-##PARTES 2 E 3 EM BREVE.##
+/////PARTES 2 E 3 EM BREVE./////
