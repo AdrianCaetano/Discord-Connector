@@ -3,12 +3,14 @@ Olá, eu me chamo Adrian, e nessa extensa explicação iremos aprender a criar u
 ///////INDICIDE:///////
 
 |PARTE 1-CRIANDO O BOT|
+
 |PARTE 2-CONECTANDO ELE COM A GAMEMODE|
+
 |PARTE 3-DEIXANDO ELE ONLINE|
 
 ////INFO:Caso você queira ver esse tutorial em formato de video aula,acesse este link:(EM BREVE)////
 
-PARTE 1-CRIANDO O BOT
+# PARTE 1-CRIANDO O BOT
 
 -Primeiramente acesse o site: https://discord.com/login?redirect_to=%2Fdevelopers
 
