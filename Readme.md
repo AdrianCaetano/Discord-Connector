@@ -1,14 +1,14 @@
 Olá, eu me chamo Adrian, e nessa extensa explicação iremos aprender a criar um bot para o discord e utilizar-lo na sua gamemode pawn,usando a própria linguagem pawn para programar-lo.
 
-///////INDICIDE:///////
+## INDICE:
 
-|PARTE 1-CRIANDO O BOT|
+# |PARTE 1-CRIANDO O BOT|
 
-|PARTE 2-CONECTANDO ELE COM A GAMEMODE|
+# |PARTE 2-CONECTANDO ELE COM A GAMEMODE|
 
-|PARTE 3-DEIXANDO ELE ONLINE|
+# |PARTE 3-DEIXANDO ELE ONLINE|
 
-////INFO:Caso você queira ver esse tutorial em formato de video aula,acesse este link:(EM BREVE)////
+## INFO:Caso você queira ver esse tutorial em formato de video aula,acesse este link:(EM BREVE)
 
 # PARTE 1-CRIANDO O BOT
 
@@ -26,4 +26,4 @@ Olá, eu me chamo Adrian, e nessa extensa explicação iremos aprender a criar u
 
 -Após seguir todos os passos acima,s seu bot não estará online AINDA,mas já estara funcionando no seu discord.
 
-/////PARTES 2 E 3 EM BREVE./////
+# PARTES 2 E 3 EM BREVE.
