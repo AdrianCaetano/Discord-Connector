@@ -16,7 +16,11 @@
 
 -No canto direito da tela clique para logar sua conta do discord,bote seu email e senha,lembrando que esse site é seguro, pois ele é do próprio discord.
 
--Agora aperte na opção "Aplications" e logo após na opção "New Aplication", na caixa de texto digite o nome do seu bot, marque a caixinha selecionável e logo após aperte em "Create".
+-Agora aperte na opção "Aplications" 
+
+![New Aplicaion](png/printA.png)
+
+e logo após na opção "New Aplication", na caixa de texto digite o nome do seu bot, marque a caixinha selecionável e logo após aperte em "Create".
 
 -Agora vai mostrar todas as informações do seu bot, na opção "App Icon" selecione uma foto da galeria para ser a foto do bot, e na caixa descrição,caso queira adicionar uma descrição para ele.
 
