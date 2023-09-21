@@ -63,4 +63,38 @@ aperte em icon e bote novamente a foto do seu bot e escreva novamente o nome del
 
 -Após seguir todos os passos acima,o seu bot não estará online AINDA,mas já estara funcionando no seu discord.
 
-# PARTES 2 E 3 EM BREVE.
+# PARTE 2-CONECTANDO ELE COM A GAMEMODE
+
+Na própria opção Bot onde estamos, desça para baixo e marque as seguintes caixas:
+
+![Caixas](png/printP)
+
+E desça mais um pouco para baixo e marque a opção administrador:
+
+![Adm](png/printQ)
+
+Agora volte para o topo e aperte na opção reset token bot:
+
+![Reset Token](png/printR)
+
+Aperte em Yes, do it:
+
+![Yes](png/printS)
+
+Assim que apertar irá aparecer o token do seu bot:
+
+![Token](png/printT)
+
+# OBS: NÃO COMPATLHE O TOKEN DO SEU BOT COM NINGUÉM, POIS COM O TOKEN É POSSIVEL DESTRUIR O DISCORD QUE ELE ESTÁ HOSPEDADO
+
+Copie o Token e cole no server.cfg da sua gamemode usando o seguinte modelo:
+
+discord_bot_token TokenDoBotAqui
+
+Exemplo: 
+
+![Token](png/printU)
+
+Pronto!Seu bot já está conectado com a gamemode, mas ainda não está online, isso virá na parte 3!
+
+# PARTE 3-Em breve
