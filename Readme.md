@@ -67,23 +67,23 @@ aperte em icon e bote novamente a foto do seu bot e escreva novamente o nome del
 
 Na própria opção Bot onde estamos, desça para baixo e marque as seguintes caixas:
 
-![Caixas](png/printP)
+![Caixas](png/printP.png)
 
 E desça mais um pouco para baixo e marque a opção administrador:
 
-![Adm](png/printQ)
+![Adm](png/printQ.png)
 
 Agora volte para o topo e aperte na opção reset token bot:
 
-![Reset Token](png/printR)
+![Reset Token](png/printR.png)
 
 Aperte em Yes, do it:
 
-![Yes](png/printS)
+![Yes](png/printS.png)
 
 Assim que apertar irá aparecer o token do seu bot:
 
-![Token](png/printT)
+![Token](png/printT.png)
 
 # OBS: NÃO COMPATLHE O TOKEN DO SEU BOT COM NINGUÉM, POIS COM O TOKEN É POSSIVEL DESTRUIR O DISCORD QUE ELE ESTÁ HOSPEDADO
 
@@ -93,7 +93,7 @@ discord_bot_token TokenDoBotAqui
 
 Exemplo: 
 
-![Token](png/printU)
+![Token](png/printU.png)
 
 Pronto!Seu bot já está conectado com a gamemode, mas ainda não está online, isso virá na parte 3!
 
