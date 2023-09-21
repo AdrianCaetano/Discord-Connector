@@ -18,15 +18,48 @@
 
 -Agora aperte na opção "Aplications" 
 
-![New Aplicaion](png/printA.png)
+![Aplications](png/printA.png)
 
-e logo após na opção "New Aplication", na caixa de texto digite o nome do seu bot, marque a caixinha selecionável e logo após aperte em "Create".
+e logo após na opção "New Aplication"
 
--Agora vai mostrar todas as informações do seu bot, na opção "App Icon" selecione uma foto da galeria para ser a foto do bot, e na caixa descrição,caso queira adicionar uma descrição para ele.
+![New Aplicaion](png/printB.png)
 
--Após tudo isso acima, aperte no botão "OAuth2", logo após no botão "URL Generator", Você vai ver a palavra Scops e um monte de caixas selecionáveis, aperte na caixa que diz "bot", logo após que você apertar vai aparecer uma palavra escrita "BOT PERMISSIONS" e novamente várias caixinhas, você marca a caixa que diz "Administrador".
+na caixa de texto digite o nome do seu bot, marque a caixinha selecionável e logo após aperte em "Create".
 
--Após isso,vá para baixo e vai ter uma caixa com um link e em cima dela escrito "Generated Url", copie esse link e cole em uma aba nova na caixa de url, esse link serve para convidar o bot para seu discord, após adicionar o bot no seu discord volte para o site developer e aperte no botão "Bot", aperte em icon e bote novamente a foto do seu bot e escreva novamente o nome dele.
+![NOME DO bOT](png/printC.png)
+
+-Agora vai mostrar todas as informações do seu bot, na opção "App Icon" selecione uma foto da galeria para ser a foto do bot:
+
+![Icone do Bot](png/printD.png)
+
+ e na caixa descrição,caso queira adicionar uma descrição para ele.
+
+![Descriçao do Bot](png/printE.png)
+
+-Após tudo isso acima, aperte no botão "OAuth2":
+
+![OAuth2](png/printF.png)
+
+logo após no botão "URL Generator", Você vai ver a palavra Scops e um monte de caixas selecionáveis, aperte na caixa que diz "bot", 
+
+![Url Generator](png/printG.png)
+
+logo após que você apertar vai aparecer uma palavra escrita "BOT PERMISSIONS" e novamente várias caixinhas, você marca a caixa que diz "Administrador".
+
+![Permissões bot](png/printH.png)
+
+-Após isso,vá para baixo e vai ter uma caixa com um link e em cima dela escrito "Generated Url", copie esse link e cole em uma aba nova na caixa de url, esse link serve para convidar o bot para seu discord.
+
+![Link Bot](png/printL.png)
+![Convidar bot](png/printM.png)
+
+ após adicionar o bot no seu discord volte para o site developer e aperte no botão "Bot":
+ ![Botão Bot](png/printN.png)
+ 
+aperte em icon e bote novamente a foto do seu bot e escreva novamente o nome dele.
+
+![Link Bot](png/printO.png)
+
 
 -Após seguir todos os passos acima,o seu bot não estará online AINDA,mas já estara funcionando no seu discord.
 
