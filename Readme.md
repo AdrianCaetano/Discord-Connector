@@ -97,4 +97,52 @@ Exemplo:
 
 Pronto!Seu bot já está conectado com a gamemode, mas ainda não está online, isso virá na parte 3!
 
-# PARTE 3-Em breve
+# PARTE 3-DEIXANDO ELE ONLINE
+
+Bom, para deixar o bot online baixe a include discord-connector e a include discord-cmd, links:
+
+include discord-connector: https://www.mediafire.com/file/jft2mrvtax6ejo8/discord-connector.inc/file
+
+include discord-cmd: https://www.mediafire.com/file/scshva6icsxzmmh/discord-cmd.inc/file
+
+Após baixar as 2 includes acima abra a pasta pawno da sua gamemode:
+
+![Pasta pawno](png/printV.png)
+
+e abra a pasta include:
+
+![Pasta include](png/printW.png)
+
+Coloque os dois arquivos baixado dentro dela:
+
+![includes](png/printX.png)
+
+Logo após baixa os dois plugins:
+
+plugin discord-connector.so: https://www.mediafire.com/file/i6n3jv3coxethp0/discord-connector.so/file
+
+plugin discord-connector.dll: https://www.mediafire.com/file/d1f0f1zhna6e8ct/discord-connector.dll/file
+
+Após baixar coloque os dois dentro da pasta plugins que fica dentro da gamemode:
+
+![Pasta plugins](png/printY.png)
+
+![Aqui](png/printZ.png)
+
+Logo após isso baixe as log-cores:
+
+log-core2.dll: https://www.mediafire.com/file/ow85fyfyq43e8y6/log-core2.dll/file
+
+log-core2.so: https://www.mediafire.com/file/aua58i4l2s5872j/log-core2.so/file
+
+Coloque elas dentro da gamemode(FORA DE PASTAS):
+
+![logs-core](png/print1.png)
+
+
+Agora aba sua gamemode e defina as includes discord-cmd e discord-connector:
+
+```pawn
+#include <discord-cmd>
+#include <discord-connector> 
+´´´
