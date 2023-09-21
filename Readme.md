@@ -10,6 +10,8 @@
 
 ## INFO:Caso você queira ver esse tutorial em formato de video aula,acesse este link:(EM BREVE)
 
+## Link do meu discord: https://discord.gg/9ejauja2Fe (Lá ajudarei a todos que tiverem dúvidas relacionadas ao discord-connector e pawn)
+
 # PARTE 1-CRIANDO O BOT
 
 -Primeiramente acesse o site: https://discord.com/login?redirect_to=%2Fdevelopers
@@ -140,9 +142,44 @@ Coloque elas dentro da gamemode(FORA DE PASTAS):
 ![logs-core](png/print1.png)
 
 
-Agora aba sua gamemode e defina as includes discord-cmd e discord-connector:
+Agora aba sua gamemode e defina as includes no topo da gamemode discord-cmd e discord-connector:
 
 ```pawn
 #include <discord-cmd>
 #include <discord-connector> 
-´´´
+
+![defines](png/print2.png)
+
+E logo após defina o prefixo:
+
+```pawn
+#define DCMD_PREFIX '!' //Prefixo bot (OBS: 1 caractere somente)
+#define PREFIX_MSG  "!"  //Prefix q aparece na msg
+```
+![prefixo](png/print3.png)
+
+E logo abaixo defina o status do bot:
+
+```pawn
+#define STATUS_BOT ONLINE
+```
+
+### Pronto agora abra o server.cfg:
+
+![servercfg](png/print4.png)
+
+Na linha plugins escreve discord-connector (OBS:Se você usa local host escreva apenas isso, se você usa algum host pergunte ao dono da host se ela é linux ou windows).
+
+Se for Windows coloque: discord-connector.dll
+
+Se for Linux coloque: discord-connector.so
+
+Para fortalecer vocês já aviso que a lemehost(host de testes que a maioria usa)ela é Linux(.so no final)
+
+![plugins](png/print5.png)
+
+Após isso, salve o server.cfg. Abra sua host e ligue, e pronto você verá seu bot online no seu discord!!!
+
+![boton](png/print6.png)
+
+# EM BREVE O TUTORIAL EM VIDEO AULA E CRIAREI OUTROS REPOSITÓRIOS PARA ENSINAR A COMO CRIAR COMANDOS ETC... POR ISSO FIQUEM DE OLHO NO MEU PERFIL!
